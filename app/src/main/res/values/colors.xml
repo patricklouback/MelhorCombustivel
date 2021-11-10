@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#e78c33</color>
+    <color name="brown">#943005</color>
+
+    <color name="laranja">#cc6607</color>
+    <color name="laranja_edit">#884e18</color>
+    <color name="laranja_fundo">#483829</color>
+    <color name="laranja_botao">#955315</color>
+    <color name="fundo_cinza">#303030</color>
+
+    <color name="verde">#264338</color>
+    <color name="verde_text">#1f4f3d</color>
+    <color name="amarelo">#4e4726</color>
+    <color name="amarelo_text">#61561f</color>
+    <color name="vermelho">#482d2b</color>
+    <color name="vermelho_text">#572e2b</color>
+    <color name="azul_text">#303e4f</color>
+    <color name="azul">#303943</color>
+
+    <color name="azul_bomba">#325e8f</color>
+    <color name="verm_bomba">#aa221b</color>
+    <color name="ama_bomba">#c7a600</color>
+    <color name="verde_bomba">#008e59</color>
+
+</resources>
